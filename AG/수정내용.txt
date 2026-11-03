@@ -1,0 +1,12 @@
+원본 index0.html 보존. IMG 폴더 이미지 경로 수정, calc()를 퍼센트 폭으로 변경.
+기존 Flex 배치와 콘텐츠 순서 유지. 상품 이미지·글자 크기, 카드·섹션·푸터 여백, 작은 화면 표시 보완.
+point-event.png와 multivitamin-mineral.jpg가 없어 해당 이미지 2개는 표시되지 않음. 검색·메뉴·버튼은 기존 표시용.
+
+[수정 위치 - 수정본 기준]
+210행: /* 디자인 보완: 기존 Flex 배치 유지 */
+230행: @media (max-width: 900px) {
+241행: @media (max-width: 600px) {
+305행: <!-- Best Products -->
+386행: <!-- First Purchase -->
+445행: <!-- Footer -->
+유튜브 영상 오류 시 원본 영상으로 이동하는 링크 추가 (381행). 로컬 파일에서 오류 153 발생 시 Live Server 사용.
